@@ -6,7 +6,7 @@ public:
         int ans = 0,currSum=0;
         for(int i=0;i<nums.size();i++){
             currSum+=nums[i];
-            int complement = -1*(k-currSum);
+            int complement = currSum-k;
             if(mp.find(complement)!=mp.end()){
                 ans+=mp[complement];
             }
