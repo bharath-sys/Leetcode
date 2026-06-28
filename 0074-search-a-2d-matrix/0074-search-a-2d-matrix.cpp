@@ -13,7 +13,7 @@ public:
         }
         return r;
     }
-    int searchCol(vector<vector<int>>& matrix, int target, int row){
+    int searchInRow(vector<vector<int>>& matrix, int target, int row){
         int l = 0;
         int r = matrix[0].size()-1;
         while(l<=r){
@@ -24,12 +24,12 @@ public:
             }
             else l=m+1;
         }
-        return -1;
+        return -1 ;
     }
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int row = searchRow(matrix,target);
         if(row<0)return false;
-        int col = searchCol(matrix,target,row);
-        return col!=-1;
+        int RowPos = searchInRow(matrix,target,row);
+        return RowPos!=-1;
     }
 };
