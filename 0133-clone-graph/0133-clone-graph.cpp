@@ -24,12 +24,10 @@ public:
     Node* cloneGraph(Node* node) {
         if(!node) return NULL;
         queue<Node*> q;
-        unordered_set<int> visited;
         unordered_map<int,Node*> mp;
         Node* copy = new Node(node->val);
         mp[node->val] = copy;
         q.push(node);
-        visited.insert(node->val);
         while(q.size()){
             Node* parent = q.front();
             q.pop();
@@ -37,9 +35,6 @@ public:
             for(auto nbr:parent->neighbors){
                 if(mp.find(nbr->val)==mp.end()){
                     mp[nbr->val] = new Node(nbr->val);
-                }
-                if(!visited.count(nbr->val)){
-                    visited.insert(nbr->val);
                     q.push(nbr);
                 }
                 Node* parentCopy = mp[parent->val];
