@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/bharath-sys/Leetcode/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
