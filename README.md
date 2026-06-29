@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/bharath-sys/Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/bharath-sys/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bharath-sys/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
