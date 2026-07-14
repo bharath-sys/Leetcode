@@ -15,8 +15,8 @@ public:
                 l=m+1;
             }
             else {
-                mini = min(nums[m+1],mini);
-                r = m;
+                mini = min(nums[m],mini);
+                r = m-1;
             }
         }
         return mini;
