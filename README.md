@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bharath-sys/Leetcode/tree/master/0045-jump-game-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
