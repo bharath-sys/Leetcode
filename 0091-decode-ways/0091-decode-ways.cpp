@@ -16,8 +16,25 @@ public:
         return dp[idx]=ways;
     }
     int numDecodings(string s) {
-        if(s[0]=='0')return 0;
-        dp.resize(s.length(),-1);
-        return solve(s,0);
+        int n = s.length();
+        dp.resize(n+1,0);
+        dp[n] = 1;
+        dp[n-1] = s[n-1] == '0' ? 0 : 1;
+        for(int i=n-2;i>=0;i--){
+            if(s[i]=='0'){
+                dp[i]=0;
+                // continue;
+            }
+            else {
+                // if single charected ...
+                dp[i]=dp[i+1];
+                // considering two charecters ...
+                string ss =  s.substr(i,2);
+                if(ss<="26" && ss>="10"){
+                    dp[i]+=dp[i+2];
+                }
+            }
+        }
+        return dp[0];
     }
 };
