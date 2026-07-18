@@ -4,7 +4,7 @@ public:
     int solve(string s,int idx){
         if(idx==s.length())return 1;
         if(s[idx]=='0')return 0;
-        if(dp[idx])return dp[idx];
+        if(dp[idx]!=-1)return dp[idx];
         // one char 
         int ways = solve(s,idx+1);
         // two char
@@ -17,7 +17,7 @@ public:
     }
     int numDecodings(string s) {
         if(s[0]=='0')return 0;
-        dp.resize(s.length(),0);
+        dp.resize(s.length(),-1);
         return solve(s,0);
     }
 };
