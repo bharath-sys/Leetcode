@@ -1,10 +1,9 @@
 class Solution {
 public:
-    int minPathSum(vector<vector<int>>& grid) {
+    int minPathSum(vector<vector<int>>& dp) {
         int m,n;
-        m = grid.size();
-        n = grid[0].size();
-        vector<vector<int>> dp = grid;        
+        m = dp.size();
+        n = dp[0].size();
         for(int i=1;i<n;i++){
             dp[0][i]+=dp[0][i-1]; 
         }
