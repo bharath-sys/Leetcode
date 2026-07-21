@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
+| [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bharath-sys/Leetcode/tree/master/0062-unique-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
