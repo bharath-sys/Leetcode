@@ -1,23 +1,13 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        vector<int> freq(26, 0);
+        for (char c : word)
+            freq[c - 'a']++;
+        sort(freq.begin(), freq.end(), greater<int>());
         int ans = 0;
-        vector<int> mp(26,0);
-        int chars = 0;
-        for(char ch:word){
-            mp[ch-'a']+=1;
-        }
-        sort(mp.begin(), mp.end(), greater<int>());
-        int mulFactor = 1;
-        for(int cnt:mp){
-            if(cnt){
-                chars+=1;
-                ans+=(mulFactor*cnt);
-            }
-            if(chars==8){
-                mulFactor+=1;
-                chars = 0;
-            }
+        for (int i = 0; i < 26 && freq[i] > 0; i++) {
+            ans += ((i / 8) + 1) * freq[i];
         }
         return ans;
     }
