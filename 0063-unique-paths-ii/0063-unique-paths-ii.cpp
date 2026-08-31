@@ -1,31 +1,38 @@
 class Solution {
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& og) {
-        if(og[0][0]==1)return 0;
-        for (int row = 0; row < og.size(); row++) {
-            for (int col = 0; col < og[0].size(); col++) {
-                og[row][col] = og[row][col] == 1 ? -1 : 0;
-            }
-        }
-        for (int i = 0; i < og[0].size(); i++) {
-            og[0][i] = (og[0][i] == -1 || (i>0 && og[0][i-1]==-1)) ? -1 : 1;
-        }
-        for (int i = 0; i < og.size(); i++) {
-            og[i][0] = (og[i][0] == -1 || (i>0 && og[i-1][0]==-1)) ? -1 : 1;
-        }
-        for (int row = 1; row < og.size(); row++) {
-            for (int col = 1; col < og[0].size(); col++) {
-                int prevRow = 0;
-                int prevCol = 0;
-                if (og[row][col] != -1) {
-                    prevRow = og[row - 1][col] == -1 ? 0 : og[row - 1][col];
-                    prevCol = og[row][col - 1] == -1 ? 0 : og[row][col - 1];
-                    og[row][col] = prevRow + prevCol;
+        int m = og.size();
+        int n = og[0].size();
+        vector<vector<long>> ways(m,vector<long> (n,0));
+        ways[0][0] = og[0][0]==1 ? 0 : 1;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(og[i][j]==1){
+                    og[i][j] = -1;
                 }
             }
         }
-        return og[og.size() - 1][og[0].size() - 1] == -1
-                   ? 0
-                   : og[og.size() - 1][og[0].size() - 1];
+        // filling top and left cells as 1
+        for(int i=1;i<m;i++){
+            ways[i][0] = ways[i-1][0] ? og[i][0]==0 : 0;
+        }
+        for(int j=1;j<n;j++){
+            ways[0][j] = ways[0][j-1] ? og[0][j]==0 : 0;
+        }
+
+        // now processing from 1,1 cell 
+         for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(og[i][j]==0){
+                    ways[i][j] = ways[i-1][j]+ways[i][j-1];
+                }
+            }
+        }
+
+        
+
+        return ways[m-1][n-1];
+
+
     }
 };
