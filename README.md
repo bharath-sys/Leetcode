@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/bharath-sys/Leetcode/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bharath-sys/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bharath-sys/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/bharath-sys/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bharath-sys/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bharath-sys/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bharath-sys/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharath-sys/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bharath-sys/Leetcode/tree/master/0090-subsets-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
