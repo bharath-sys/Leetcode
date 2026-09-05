@@ -2,22 +2,19 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         if (nums.empty()) return 0;
-
-        vector<int> dp(nums.size(), 1);
-        int ans = 1;
-
-        dp[0] = 1;
-
-        for (int i = 1; i < nums.size(); i++) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (nums[j] < nums[i]) {
-                    dp[i] = max(dp[i], 1 + dp[j]);
-                }
+        vector<int> lis;
+        lis.push_back(nums[0]);
+        for(int i=1;i<nums.size();i++){
+            // find lowerbound
+            int lb = lower_bound(lis.begin(),lis.end(),nums[i])-lis.begin();
+            if(lb==lis.size()){
+                lis.push_back(nums[i]);
             }
-            ans = max(dp[i], ans);
+            else {
+                lis[lb] = nums[i];
+            }
         }
-
-        return ans;
+        return lis.size();
     }
 };
 
