@@ -14,15 +14,23 @@ public:
         return memo[i][j];
     }
     int longestPalindromeSubseq(string s) {
-        memo.resize(s.length(),vector<int> (s.length(),-1));
-        // memo.resize(s.length(),vector<int> (s.length(),0));
-        // for(int i=0;i<s.length()-1;i++){
-        //     for(int j=s.length-1;j>=i;j--){
-        //         if(s[i]==s[j]){
-
-        //         }
-        //     }
-        // }
-        return solve(s,0,s.length()-1);
+        // memo.resize(s.length(),vector<int> (s.length(),-1));
+        memo.resize(s.length(),vector<int> (s.length(),0));
+        for(int i=0;i<=s.length()-1;i++){
+            for(int j=0;j<=s.length()-1;j++){
+                if(j==i)memo[i][j] = 1;
+            }
+        }
+        for(int i=s.length()-1;i>=0;i--){
+            for(int j=i+1;j<s.length();j++){
+                if(s[i]==s[j]){
+                    memo[i][j] = 2+memo[i+1][j-1];
+                }
+                else {
+                    memo[i][j] = max(memo[i+1][j],memo[i][j-1]);
+                }
+            }
+        }
+        return memo[0][s.length()-1];
     }
 };
