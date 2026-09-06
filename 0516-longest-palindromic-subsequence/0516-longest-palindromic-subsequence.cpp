@@ -10,11 +10,19 @@ public:
         if(s[i]==s[j]){
             memo[i][j] = 2+solve(s,i+1,j-1);
         }
-        int either =  max(solve(s,i+1,j),solve(s,i,j-1));
-        return memo[i][j] = max(memo[i][j],either);
+        else memo[i][j] = max(solve(s,i+1,j),solve(s,i,j-1));
+        return memo[i][j];
     }
     int longestPalindromeSubseq(string s) {
         memo.resize(s.length(),vector<int> (s.length(),-1));
+        // memo.resize(s.length(),vector<int> (s.length(),0));
+        // for(int i=0;i<s.length()-1;i++){
+        //     for(int j=s.length-1;j>=i;j--){
+        //         if(s[i]==s[j]){
+
+        //         }
+        //     }
+        // }
         return solve(s,0,s.length()-1);
     }
 };
