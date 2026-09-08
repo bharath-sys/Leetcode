@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bharath-sys/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/bharath-sys/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bharath-sys/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bharath-sys/Leetcode/tree/master/0091-decode-ways) |
 | [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bharath-sys/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
