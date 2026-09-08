@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bharath-sys/Leetcode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/bharath-sys/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/bharath-sys/Leetcode/tree/master/0091-decode-ways) |
+| [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
