@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bharath-sys/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bharath-sys/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/bharath-sys/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/bharath-sys/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bharath-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharath-sys/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bharath-sys/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/bharath-sys/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bharath-sys/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/bharath-sys/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bharath-sys/Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharath-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
