@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/bharath-sys/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bharath-sys/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bharath-sys/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bharath-sys/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/bharath-sys/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
@@ -264,4 +269,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bharath-sys/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
