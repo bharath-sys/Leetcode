@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/bharath-sys/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bharath-sys/Leetcode/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/bharath-sys/Leetcode/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
