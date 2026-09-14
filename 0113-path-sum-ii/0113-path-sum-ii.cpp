@@ -18,20 +18,17 @@ public:
     void solve(TreeNode* root, int currSum) {
         if (!root)
             return;
-        if (root) {
-            path.push_back(root->val);
-            if (!root->left && !root->right && currSum+root->val == target) {
-                ans.push_back(path);
-            } else {
-                solve(root->left, currSum+root->val);
-                solve(root->right, currSum+root->val);
-            }
-            path.pop_back();
+        path.push_back(root->val);
+        if (!root->left && !root->right && currSum + root->val == target) {
+            ans.push_back(path);
+        } else {
+            solve(root->left, currSum + root->val);
+            solve(root->right, currSum + root->val);
         }
-        return;
+        path.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        target=targetSum;
+        target = targetSum;
         solve(root, 0);
         return ans;
     }
