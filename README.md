@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/bharath-sys/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharath-sys/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Stack
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharath-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
 ## Quicksort
 |  |
 | ------- |
