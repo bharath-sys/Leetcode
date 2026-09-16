@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharath-sys/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bharath-sys/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/bharath-sys/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharath-sys/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
