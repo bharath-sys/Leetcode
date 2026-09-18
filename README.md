@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/bharath-sys/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bharath-sys/Leetcode/tree/master/0155-min-stack) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
