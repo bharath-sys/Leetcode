@@ -7,8 +7,9 @@ public:
             if(pref == 0)pref = 1;
             if(suff == 0)suff = 1;
             pref = pref*nums[i];
-            suff = suff*nums[n-i-1];
-            ans = max(max(pref,suff),ans);
+            suff = suff*nums[n-1-i];
+            int maxi = max(max(nums[i],pref),max(nums[n-1-i],suff));
+            ans = max(ans,maxi);
         }
         return ans;
     }   
