@@ -7,7 +7,6 @@ public:
         A.assign(nums1.begin(),nums1.end());
         B.assign(nums2.begin(),nums2.end());
         for(int num:B)mp[num]+=1;
-        sort(A.begin(),A.end());
     }
     
     void add(int index, int val) {
