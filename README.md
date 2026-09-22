@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharath-sys/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/bharath-sys/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bharath-sys/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bharath-sys/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/bharath-sys/Leetcode/tree/master/1314-matrix-block-sum) |
 | [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Queue
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/bharath-sys/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/bharath-sys/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [3498-reverse-degree-of-a-string](https://github.com/bharath-sys/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
