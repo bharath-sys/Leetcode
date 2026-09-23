@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/bharath-sys/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/bharath-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/bharath-sys/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharath-sys/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bharath-sys/Leetcode/tree/master/0155-min-stack) |
+| [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
@@ -341,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bharath-sys/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
