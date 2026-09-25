@@ -13,10 +13,8 @@ public:
         if (!root || p == root || q == root)
             return root;
         auto l = lowestCommonAncestor(root->left, p, q);
-        if ((p == root || p == l) && (l == q || root == q))
-            return root;
         auto r = lowestCommonAncestor(root->right, p, q);
-        if ((l == p || r == p || root == p) && (l == q || r == q || root == q))
+        if (l && r)
             return root;
         return l ? l : r;
     }
