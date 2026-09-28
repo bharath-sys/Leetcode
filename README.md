@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/bharath-sys/Leetcode/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/bharath-sys/Leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/bharath-sys/Leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bharath-sys/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/bharath-sys/Leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Combinatorics
 |  |
 | ------- |
