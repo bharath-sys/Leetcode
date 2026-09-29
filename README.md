@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/bharath-sys/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bharath-sys/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharath-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Quicksort
 |  |
 | ------- |
@@ -378,4 +381,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharath-sys/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
