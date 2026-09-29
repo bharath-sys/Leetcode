@@ -38,22 +38,20 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         vector<vector<int>> nodes;
         for (int i = 0; i < points.size(); i++) {
-            for (int j = 0; j < points.size(); j++) {
-                if (i != j) {
-                    int distance = abs(points[i][0] - points[j][0]) +
-                                   abs(points[i][1] - points[j][1]);
-                    nodes.push_back({distance, i, j});
-                }
+            for (int j = i + 1; j < points.size(); j++) {
+                int distance = abs(points[i][0] - points[j][0]) +
+                               abs(points[i][1] - points[j][1]);
+                nodes.push_back({distance, i, j});
             }
         }
 
-        sort(nodes.begin(),nodes.end());
+        sort(nodes.begin(), nodes.end());
         DSU d = DSU(points.size());
         int cost = 0;
-        for(int i=0;i<nodes.size();i++){
-            if(d.findPar(nodes[i][1])!=d.findPar(nodes[i][2])){
-                cost+=nodes[i][0];
-                d.unionBySize(nodes[i][1],nodes[i][2]);
+        for (int i = 0; i < nodes.size(); i++) {
+            if (d.findPar(nodes[i][1]) != d.findPar(nodes[i][2])) {
+                cost += nodes[i][0];
+                d.unionBySize(nodes[i][1], nodes[i][2]);
             }
         }
         return cost;
