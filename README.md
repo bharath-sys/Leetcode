@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharath-sys/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bharath-sys/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/bharath-sys/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bharath-sys/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bharath-sys/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/bharath-sys/Leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/bharath-sys/Leetcode/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bharath-sys/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/bharath-sys/Leetcode/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bharath-sys/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/bharath-sys/Leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bharath-sys/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bharath-sys/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/bharath-sys/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
