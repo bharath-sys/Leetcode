@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bharath-sys/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/bharath-sys/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/bharath-sys/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bharath-sys/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharath-sys/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bharath-sys/Leetcode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/bharath-sys/Leetcode/tree/master/0091-decode-ways) |
 | [0299-bulls-and-cows](https://github.com/bharath-sys/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharath-sys/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bharath-sys/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/bharath-sys/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bharath-sys/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bharath-sys/Leetcode/tree/master/0113-path-sum-ii) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bharath-sys/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
