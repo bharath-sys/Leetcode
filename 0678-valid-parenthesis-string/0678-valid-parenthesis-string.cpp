@@ -1,20 +1,34 @@
 class Solution {
-public:
+public: 
     bool checkValidString(string s) {
-        int l = 0, h = 0;
-        for (auto& c : s) {
-            if(c=='('){
-                l++;h++;
+        stack<int> openBrackets; 
+        stack<int> asterisks;
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s[i];
+            if (ch == '(') {
+                openBrackets.push(i);
+            } else if (ch == '*') {
+                asterisks.push(i);
+            } else {
+                if (!openBrackets.empty()) {
+                    openBrackets.pop();
+                } else if (!asterisks.empty()) {
+                    asterisks.pop();
+                } else {
+                    return false;
+                }
             }
-            else if(c==')'){
-                l--;h--;
-            }
-            else {
-                l--;h++;
-            }
-            if (h < 0) return 0;
-            l = max(l, 0);
         }
-        return l == 0;
+
+        while (!openBrackets.empty() && !asterisks.empty()) {
+            if (openBrackets.top() > asterisks.top()) {
+                return false;
+            }
+            openBrackets.pop();
+            asterisks.pop();
+        }
+
+        return openBrackets.empty();
     }
 };
