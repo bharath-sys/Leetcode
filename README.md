@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bharath-sys/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/bharath-sys/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/bharath-sys/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharath-sys/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bharath-sys/Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/bharath-sys/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/bharath-sys/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bharath-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bharath-sys/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/bharath-sys/Leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/bharath-sys/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
