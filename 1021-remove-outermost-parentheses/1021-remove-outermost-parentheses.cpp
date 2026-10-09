@@ -6,11 +6,12 @@ public:
         for(int i=0;i<s.size();i++){
             if(s[i]=='('){
                 b++;
+                if(b>1)ans.push_back(s[i]);
             }
             else {
                 b--;
+                if(b>0)ans.push_back(s[i]);
             }
-            if(i!=0 && b>0 && !(s[i]=='(' && b==1))ans.push_back(s[i]);
         }
         return ans;
     }
