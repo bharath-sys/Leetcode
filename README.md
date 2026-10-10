@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bharath-sys/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/bharath-sys/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/bharath-sys/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/bharath-sys/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharath-sys/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bharath-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/bharath-sys/Leetcode/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharath-sys/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0655-print-binary-tree](https://github.com/bharath-sys/Leetcode/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bharath-sys/Leetcode/tree/master/0322-coin-change) |
 | [0655-print-binary-tree](https://github.com/bharath-sys/Leetcode/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharath-sys/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/bharath-sys/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bharath-sys/Leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/bharath-sys/Leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bharath-sys/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Monotonic Stack
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bharath-sys/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/bharath-sys/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Game Theory
 |  |
