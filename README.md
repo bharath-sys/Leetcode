@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/bharath-sys/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/bharath-sys/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bharath-sys/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bharath-sys/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bharath-sys/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bharath-sys/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Knapsack Problem
 |  |
