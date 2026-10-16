@@ -15,7 +15,6 @@ public:
         return dp[i][j];
     }
     int longestCommonSubsequence(string text1, string text2) {
-        if(text1.size()<text2.size())swap(text1,text2);
         dp.resize(text1.size()+1,vector<int>(text2.size()+1,-1));
         return solve(text1,text2,0,0);
     }
