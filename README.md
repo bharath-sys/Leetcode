@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/bharath-sys/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bharath-sys/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bharath-sys/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharath-sys/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/bharath-sys/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/bharath-sys/Leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bharath-sys/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharath-sys/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
 |  |
 | ------- |
